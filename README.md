@@ -2,8 +2,7 @@
 
 **User story**
 
-As I am a pet lover I want an application which serves all the needs from getting a [Project Idea.pdf](https://github.com/Sakshi-2672/leap-project/files/6564651/Project.Idea.pdf)
-
+As I am a pet lover I want an application which serves all the needs from getting a 
 pet adopted and fulfil their basic need from their food to their shelter which I can 
 order online and get them by my doorstep. Also contact of veterinarian for the 
 consultation of my pet to take proper care of them. Among the hectic daily 
@@ -32,3 +31,6 @@ Facilities to be added:
 accessories, etc.
 * User can be in contact of veterinarian online
 * User can visit veterinarian by following the shortest path.
+
+
+[Project Idea.pdf](https://github.com/Sakshi-2672/leap-project/files/6564654/Project.Idea.pdf)
