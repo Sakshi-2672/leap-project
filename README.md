@@ -14,10 +14,10 @@ necessities of mine would make life of many pet lovers like me a lot easier.
 **SCQ**
 
 1) Situation
-In emergency for pet’s health issue this application would show the veterinarian 
+- In emergency for pet’s health issue this application would show the veterinarian 
 and the shortest path to reach them quickly
 2) Challenge
-Difficult to use by rural area people due to lack of awareness, sources providing 
+- Difficult to use by rural area people due to lack of awareness, sources providing 
 pets for adaptation in real time
 3) Question
 * Best way to get all the data of pets available for adaptation in real time?
