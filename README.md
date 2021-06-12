@@ -1,4 +1,4 @@
-**Leap Project**
+**Pet Parent**
 
 **User story**
 
